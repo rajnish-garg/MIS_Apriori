@@ -1,0 +1,7 @@
+Cheese 0.25
+Shoes 0.25
+Beef 0.25
+Bread 0.7
+Boots 0.25
+Clothes 0.25
+Milk 0.5

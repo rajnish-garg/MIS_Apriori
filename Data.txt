@@ -1,0 +1,7 @@
+Beef, Bread
+Bread, Clothes
+Bread, Clothes, Milk
+Cheese, Boots
+Beef, Bread, Cheese, Shoes
+Beef, Bread, Cheese, Milk
+Bread, Milk, Clothes
